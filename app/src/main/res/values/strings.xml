@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExchangeW</string>
+    <string name="show_rates_btn">show rates</string>
+    <string name="amountText">Amount:</string>
+    <string name="fromText">From</string>
+    <string name="toText">To</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string-array name="currencies">
+        <item>EUR</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>KRW</item>
+    </string-array>
+</resources>
